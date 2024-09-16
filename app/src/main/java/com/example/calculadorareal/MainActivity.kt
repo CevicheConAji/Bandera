@@ -65,7 +65,7 @@ class MainActivity : AppCompatActivity() {
     private fun pipoBandera(){
 
         bandera.setBackgroundColor(R.color.blue)
-        //Ocultar cada bandera
+        //Ocultar cada bandera siuu
         bandera.visibility = View.GONE
     }
 }
